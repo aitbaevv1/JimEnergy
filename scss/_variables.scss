@@ -1,0 +1,10 @@
+@mixin fontTitleNormal {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+@mixin fontTitleBold {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
+
+$font-weight: 600;
